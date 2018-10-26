@@ -1,7 +1,7 @@
 <?php
    // DB Params
-   define('DB_HOST', 'localhost');
-   define('DB_USER', 'root');
-   define('DB_PASS', 'dtdsv3010');
-   define('DB_NAME', 'hermes');
+   define('DB_HOST', 'bheje1fqr-mysql.services.clever-cloud.com');
+   define('DB_USER', 'uuf2woughivbl2bk');
+   define('DB_PASS', 'rc5BK5u8KsUBpezTZBQ');
+   define('DB_NAME', 'bheje1fqr');
 ?>
